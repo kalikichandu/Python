@@ -1,1 +1,1 @@
-Connecting to Sql Server from Python using Pyodbc Module.
+Python Program to Connect to Sql Server using Pyodbc Module.
