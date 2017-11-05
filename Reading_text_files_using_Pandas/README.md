@@ -1,4 +1,4 @@
-Python Example to read the data in Text files
+Python Program to read the data in Text files
 
 Place the text file in the working directory.
 Include the Separator character in 'sep' argument of read_csv function.
