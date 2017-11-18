@@ -13,6 +13,12 @@ try:
 );
 """)
     conn.commit()
+    cur.execute(""" INSERT
+    INTO
+    COMPANY(ID, NAME, AGE, ADDRESS, SALARY)
+    VALUES(2, 'sekhar', 24, 'Banglore', 20000.00);
+    """)
+    conn.commit()
     cur.execute("""SELECT * FROM COMPANY
     """)
     rows = cur.fetchall()
