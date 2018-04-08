@@ -22,3 +22,9 @@ Odd-Place elements in decreasing order :<br/>
 14, 9, 4, 1<br/>
 
 https://www.geeksforgeeks.org/sort-even-placed-elements-increasing-odd-placed-decreasing-order/
+
+# `First Non- Repeating Character in a word`
+Input: GreekforGreeks<br/>
+Output: f
+
+https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
