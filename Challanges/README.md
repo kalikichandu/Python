@@ -4,6 +4,10 @@
 Input: 1234 <br/>
 Output: One Thousand Thirty Four
 
+#`Reverse Words in a given String`
+Input  : s = "getting good at coding needs a lot of practice" <br/>
+Output : s = "practice of lot a needs coding at good getting"
+
 # `Sort even-placed elements in increasing and odd-placed in decreasing order`
 
 We are given an array of n distinct numbers, the task is to sort all even-placed numbers in increasing and odd-place numbers in decreasing order. The modified array should contain all sorted even-placed numbers followed by reverse sorted odd-placed numbers.
